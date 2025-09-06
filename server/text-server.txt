@@ -1,0 +1,5 @@
+cd server
+npm init --yes
+npm install express cors nodemon socket.io
+
+run:- npm start

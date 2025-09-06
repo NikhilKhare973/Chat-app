@@ -1,0 +1,15 @@
+ 
+youtube:- https://www.youtube.com/watch?v=uoItaYWsQPw&t=239s
+github:-  https://github.com/YousafKhan1/react-chat-app/tree/main
+
+
+ npm create vite@latest
+
+ 
+ cd front-end
+  npm install
+rum:-  npm run dev
+
+npm i lodash react-icons socket.io-client
+
+
