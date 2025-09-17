@@ -12,4 +12,7 @@ rum:-  npm run dev
 
 npm i lodash react-icons socket.io-client
 
+React + Vite
+socket.io 
+
 
