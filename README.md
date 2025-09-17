@@ -11,12 +11,13 @@
 
 ### Home Page
 
-- React.js.
-- Node.js.
-- CSS5.
-- Express.js.
-- MongoDB compress.
-- Next.js
+- React + Vite
+- socket.io 
+- Node.js
+- CSS5
+- Express.js
+- MongoDB compress
+
 
   
 ## Getting Started
